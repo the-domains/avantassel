@@ -1,6 +1,6 @@
 name: avantassel
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.75328
 title: Andrew Van Tassel
 cta:
   domain: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#283627'
+    - '#dccccc'
+    - '#6c5b53'
+    - '#b8988b'
+    - '#6c825b'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
